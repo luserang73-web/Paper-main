@@ -3,7 +3,7 @@
 **Author:** Adam O. Hong  
 **Affiliation:** Independent Researcher (Luserang Project)  
 **Location:** Las Vegas, NV, USA  
-**Email:** takahopi@gmail.com  
+**Email:** Luserang73@gmail.com  
 **Version:** v1.0 (Manuscript)  
 **Year:** 2025
 
